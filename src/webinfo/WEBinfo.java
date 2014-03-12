@@ -61,7 +61,7 @@ public class WEBinfo {
             }
                 else {text = "null";}
                 System.out.println(name+":"+text);
-	} catch (IOException e) {
+	} catch (IOException lol) {
 	}
  
     }
